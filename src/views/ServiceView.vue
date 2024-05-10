@@ -30,14 +30,18 @@
         </div>
         <div class="flex flex-col pr-8 pl-8 space-y-8">
           <div class="w-full flex flex-row space-x-4 items-center">
-            <boxedIcon class="w-8 icon-color" />
+            <div class="w-10">
+              <boxedIcon class="w-8 icon-color" />
+            </div>
             <span class="w-10/12"
               >Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem
               ipsum dolor sit amet consectetur adipisicing elit.</span
             >
           </div>
           <div class="w-full flex flex-row space-x-4 items-center">
-            <medalIcon class="w-8 icon-color" />
+            <div class="w-10">
+              <medalIcon class="w-8 icon-color" />
+            </div>
             <span class="w-10/12"
               >Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem
               ipsum dolor sit amet consectetur adipisicing elit.</span
@@ -84,21 +88,27 @@
         </div>
         <div class="flex flex-col pr-8 pl-8 space-y-8">
           <div class="w-full flex flex-row space-x-4 items-center">
-            <shieldIcon class="w-8 icon-color" />
+            <div class="w-10">
+              <shieldIcon class="w-8 icon-color" />
+            </div>
             <span class="w-10/12"
               >Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem
               ipsum dolor sit amet consectetur adipisicing elit.</span
             >
           </div>
           <div class="w-full flex flex-row space-x-4 items-center">
-            <scopeIcon class="w-8 icon-color" />
+            <div class="w-10">
+              <scopeIcon class="w-8 icon-color" />
+            </div>
             <span class="w-10/12"
               >Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem
               ipsum dolor sit amet consectetur adipisicing elit.</span
             >
           </div>
           <div class="w-full flex flex-row space-x-4 items-center">
-            <roadIcon class="w-8 icon-color" />
+            <div class="w-10">
+              <roadIcon class="w-8 icon-color" />
+            </div>
             <span class="w-10/12"
               >Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem
               ipsum dolor sit amet consectetur adipisicing elit.</span
@@ -132,7 +142,9 @@
         </div>
         <div class="flex flex-col pr-8 pl-8 space-y-8">
           <div class="w-full flex flex-row space-x-4 items-center">
-            <magnifyingIcon class="w-8 icon-color" />
+            <div class="w-10">
+              <magnifyingIcon class="w-8 icon-color" />
+            </div>
             <span class="w-10/12"
               >Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem
               ipsum dolor sit amet consectetur adipisicing elit.</span
@@ -178,14 +190,18 @@
         </div>
         <div class="flex flex-col pr-8 pl-8 space-y-8">
           <div class="w-full flex flex-row space-x-4 items-center">
-            <dollyIcon class="w-8 icon-color" />
+            <div class="w-10">
+              <dollyIcon class="w-8 icon-color" />
+            </div>
             <span class="w-10/12"
               >Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem
               ipsum dolor sit amet consectetur adipisicing elit.</span
             >
           </div>
           <div class="w-full flex flex-row space-x-4 items-center">
-            <parachuteIcon class="w-8 icon-color" />
+            <div class="w-10">
+              <parachuteIcon class="w-8 icon-color" />
+            </div>
             <span class="w-10/12"
               >Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem
               ipsum dolor sit amet consectetur adipisicing elit.</span
@@ -213,20 +229,26 @@
               <div
                 class="flex flex-row items-center justify-start space-x-4 w-full border-b-2 border-solid border-gray-200"
               >
-                <plusIcon class="w-5" />
+                <div class="w-5">
+                  <plusIcon class="w-5" />
+                </div>
                 <p class="py-2 text-center font-bold">Agilidade</p>
               </div>
 
               <div
                 class="flex flex-row items-center justify-start space-x-4 w-full border-b-2 border-solid border-gray-200"
               >
-                <plusIcon class="w-5" />
+                <div class="w-5">
+                  <plusIcon class="w-5" />
+                </div>
                 <p class="py-2 text-center font-bold">Versatilidade</p>
               </div>
               <div
                 class="flex flex-row items-center justify-start space-x-4 w-full border-b-2 border-solid border-gray-200"
               >
-                <minusIcon class="w-5" />
+                <div class="w-5">
+                  <minusIcon class="w-5" />
+                </div>
                 <p class="py-2 text-center font-bold">Capacidade</p>
               </div>
             </div>
@@ -242,13 +264,17 @@
               <div
                 class="flex flex-row items-center justify-start space-x-4 w-full border-b-2 border-solid border-gray-200"
               >
-                <plusIcon class="w-5" />
+                <div class="w-5">
+                  <plusIcon class="w-5" />
+                </div>
                 <p class="py-2 text-center font-bold">Versatilidade de carga</p>
               </div>
               <div
                 class="flex flex-row items-center justify-start space-x-4 w-full border-b-2 border-solid border-gray-200"
               >
-                <plusIcon class="w-5" />
+                <div class="w-5">
+                  <plusIcon class="w-5" />
+                </div>
                 <p class="py-2 text-sm text-center font-bold">
                   Eficiência em áreas urbanas
                 </p>
@@ -256,7 +282,9 @@
               <div
                 class="flex flex-row items-center justify-start space-x-4 w-full border-b-2 border-solid border-gray-200"
               >
-                <minusIcon class="w-5" />
+                <div class="w-5">
+                  <minusIcon class="w-5" />
+                </div>
                 <p class="py-2 text-center font-bold">Limitações de tamanho</p>
               </div>
             </div>
@@ -272,13 +300,17 @@
               <div
                 class="flex flex-row items-center justify-start space-x-4 w-full border-b-2 border-solid border-gray-200"
               >
-                <plusIcon class="w-5" />
+                <div class="w-5">
+                  <plusIcon class="w-5" />
+                </div>
                 <p class="py-2 text-center font-bold">Capacidade média-alta</p>
               </div>
               <div
                 class="flex flex-row items-center justify-start space-x-4 w-full border-b-2 border-solid border-gray-200"
               >
-                <plusIcon class="w-5" />
+                <div class="w-5">
+                  <plusIcon class="w-5" />
+                </div>
                 <p class="py-2 text-center font-bold">
                   Conforto para passageiros
                 </p>
@@ -286,7 +318,9 @@
               <div
                 class="flex flex-row items-center justify-start space-x-4 w-full border-b-2 border-solid border-gray-200"
               >
-                <minusIcon class="w-5" />
+                <div class="w-5">
+                  <minusIcon class="w-5" />
+                </div>
                 <p class="py-2 text-center font-bold">Agilidade em tráfego</p>
               </div>
             </div>
@@ -302,7 +336,9 @@
               <div
                 class="flex flex-row items-center justify-start space-x-4 w-full border-b-2 border-solid border-gray-200"
               >
-                <plusIcon class="w-5" />
+                <div class="w-5">
+                  <plusIcon class="w-5" />
+                </div>
                 <p class="py-2 text-center font-bold">
                   Alta capacidade de carga
                 </p>
@@ -310,13 +346,17 @@
               <div
                 class="flex flex-row items-center justify-start space-x-4 w-full border-b-2 border-solid border-gray-200"
               >
-                <plusIcon class="w-5" />
+                <div class="w-5">
+                  <plusIcon class="w-5" />
+                </div>
                 <p class="py-2 text-center font-bold">Longas distâncias</p>
               </div>
               <div
                 class="flex flex-row items-center justify-start space-x-4 w-full border-b-2 border-solid border-gray-200"
               >
-                <minusIcon class="w-5" />
+                <div class="w-5">
+                  <minusIcon class="w-5" />
+                </div>
                 <p class="py-2 text-center font-bold">Restrições em tráfego</p>
               </div>
             </div>
