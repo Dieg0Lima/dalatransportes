@@ -1,8 +1,7 @@
 <template>
   <div class="w-full h-32 flex flex-col justify-center items-center">
     <header
-      class="w-full flex flex-row justify-center items-center p-2 border-solid border-b-2 bg-header-border bg-header"
-    >
+      class="w-full flex flex-row justify-center items-center p-2 border-solid border-b-2 bg-header-border bg-header">
       <div class="w-10/12 flex flex-row justify-between items-center">
         <div class="flex flex-row space-x-6">
           <div class="space-x-2 text-white">
@@ -15,54 +14,35 @@
           </div>
         </div>
         <div class="flex flex-row space-x-2">
-          <div
-            class="w-14 h-8 flex items-center justify-center facebook rounded-lg cursor-pointer"
-          >
+          <div class="w-14 h-8 flex items-center justify-center facebook rounded-lg cursor-pointer">
             <i class="fa-brands fa-facebook text-white"></i>
           </div>
-          <div
-            class="w-14 h-8 flex items-center justify-center x-twitter rounded-lg cursor-pointer"
-          >
-            <i class="fa-brands fa-x-twitter text-white"></i>
+          <div class="w-14 h-8 flex items-center justify-center linkedin rounded-lg cursor-pointer">
+            <i class="fa-brands fa-linkedin-in text-white"></i>
           </div>
-          <div
-            class="w-14 h-8 flex items-center justify-center youtube rounded-lg cursor-pointer"
-          >
-            <i class="fa-brands fa-youtube text-white"></i>
+          <div class="w-14 h-8 flex items-center justify-center instagram rounded-lg cursor-pointer">
+            <i class="fa-brands fa-instagram text-white"></i>
           </div>
         </div>
       </div>
     </header>
-    <nav
-      class="w-full flex flex-row items-center bg-slate-100 rounded-lg rounded-tr-none rounded-tl-none"
-    >
+    <nav class="w-full flex flex-row items-center bg-slate-100 rounded-lg rounded-tr-none rounded-tl-none">
       <div class="w-4/12 flex justify-center items-center">
-        <img
-          class="w-40 br p-2"
-          src="../../assets/images/nav-image-logo.png"
-          alt=""
-        />
+        <img class="w-40 br p-2" src="../../assets/images/nav-image-logo.png" alt="" />
       </div>
       <div class="w-4/12 flex justify-center items-center">
         <div class="flex flex-row space-x-16 font-bold text-items-color">
           <div>
             <router-link to="/" class="h-full text-base">Inicio</router-link>
           </div>
-
           <div>
-            <router-link to="/servicos" class="h-full text-base"
-              >Serviços</router-link
-            >
+            <router-link to="/servicos" class="h-full text-base">Serviços</router-link>
           </div>
           <div>
-            <router-link to="/sobre" class="h-full text-base"
-              >Sobre nós</router-link
-            >
+            <router-link to="/sobre" class="h-full text-base">Sobre nós</router-link>
           </div>
           <div>
-            <router-link to="/contato" class="h-full text-base"
-              >Contato</router-link
-            >
+            <router-link to="/contato" class="h-full text-base">Contato</router-link>
           </div>
         </div>
       </div>
@@ -101,30 +81,30 @@ import buttonWanted from "@/components/button/ButtonWanted.vue";
 }
 
 .facebook {
-  background-color: #1877f2;
+  background-color: #3b5998;
   transition: background-color 0.3s;
 }
 
 .facebook:hover {
-  background-color: #3a8bf7;
+  background-color: #4b70ba;
 }
 
-.x-twitter {
-  background-color: #000000;
+.linkedin {
+  background-color: #0077b5;
   transition: background-color 0.3s;
 }
 
-.x-twitter:hover {
-  background-color: #333333;
+.linkedin:hover {
+  background-color: #005582;
 }
 
-.youtube {
-  background-color: #ff0000;
-  transition: background-color 0.3s;
+.instagram {
+  background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+  transition: background 0.3s;
 }
 
-.youtube:hover {
-  background-color: #ff4d4d;
+.instagram:hover {
+  background: linear-gradient(45deg, #e6683c 0%, #dc2743 25%, #cc2366 50%, #bc1888 75%, #9b2674 100%);
 }
 
 .text-items-color {

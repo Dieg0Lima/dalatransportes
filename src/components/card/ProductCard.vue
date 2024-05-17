@@ -13,7 +13,7 @@
           <span>Encomendas logísticas</span>
         </div>
         <div class="text-center text-black">
-          <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+          <span>Com uma equipe capacitada, entregamos seu produto com segurança e dentro do prazo. </span>
         </div>
         <div>
           <ButtonWanted />
@@ -33,7 +33,7 @@
           <span>Transporte de cargas secas </span>
         </div>
         <div class="text-center text-white">
-          <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+          <span>Tomamos todas as providências necessárias para manter sua mercadoria em segurança. </span>
         </div>
         <div>
           <ButtonProduct />
@@ -54,7 +54,7 @@
           <span>Transporte de funcionários</span>
         </div>
         <div class="text-center text-black">
-          <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+          <span>: Oferecemos aos seus colaboradores um transporte seguro com conforto e agilidade.</span>
         </div>
         <div>
           <ButtonWanted />

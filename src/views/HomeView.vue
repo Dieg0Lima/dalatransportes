@@ -1,20 +1,17 @@
 <template>
   <main class="h-full">
-    <section
-      style="height: 700px"
-      :style="{ backgroundImage: 'url(' + backgroundImage + ')' }"
-      class="h-4/5 grid grid-cols-12 bg-image-1"
-    >
+    <section style="height: 700px" :style="{ backgroundImage: 'url(' + backgroundImage + ')' }"
+      class="h-4/5 grid grid-cols-12 bg-image-1">
       <HeroCard class="col-span-12 md:col-start-3 md:col-span-5" />
     </section>
     <section class="bg-gray-300 flex justify-center items-center flex-col">
-      <div class="p-8"><ProductCard /></div>
+      <div class="p-8">
+        <ProductCard />
+      </div>
       <div class="w-full bg-gray-200">
         <div class="flex justify-center items-center text-6xl p-12">
-          <span class="w-8/12 text-center font-mediu"
-            >Mais de <b>150+</b> clientes
-            <b>satisfeitos com nossos transportes!</b></span
-          >
+          <span class="w-8/12 text-center font-mediu">Mais de <b>150 clientes
+            </b>satisfeitos com nossos <b>transportes!</b></span>
         </div>
       </div>
     </section>
@@ -27,9 +24,7 @@
       <ActionCard class="col-span-12 md:col-start-3 md:col-span-5" />
     </section>
     <section class="bg-red-800 text-white p-6">
-      <div
-        class="max-w-screen-xl mx-auto flex flex-wrap justify-between items-center text-sm"
-      >
+      <div class="max-w-screen-xl mx-auto flex flex-wrap justify-between items-center text-sm">
         <div class="p-2">
           <p>&copy; 2024 DALA Transportes. All rights reserved.</p>
           <p class="mt-2">Website developed by Diego Costa</p>
@@ -37,36 +32,13 @@
 
         <div class="p-2">
           <nav class="flex space-x-4">
-            <a
-              href="https://facebook.com"
-              class="hover:text-gray-200"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href="https://facebook.com" class="hover:text-gray-200" target="_blank" rel="noopener noreferrer">
               <i class="fab fa-facebook-f"></i>
             </a>
-            <a
-              href="https://twitter.com"
-              class="hover:text-gray-200"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <i class="fab fa-twitter"></i>
-            </a>
-            <a
-              href="https://instagram.com"
-              class="hover:text-gray-200"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href="https://instagram.com" class="hover:text-gray-200" target="_blank" rel="noopener noreferrer">
               <i class="fab fa-instagram"></i>
             </a>
-            <a
-              href="https://linkedin.com"
-              class="hover:text-gray-200"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href="https://linkedin.com" class="hover:text-gray-200" target="_blank" rel="noopener noreferrer">
               <i class="fab fa-linkedin-in"></i>
             </a>
           </nav>

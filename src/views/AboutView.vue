@@ -11,19 +11,17 @@
       <div class="md:w-10/12 p-4 space-y-4">
         <h1 class="text-6xl font-bold text-left">Sobre nós</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi
-          doloremque, totam facere, molestiae fugit eveniet, cupiditate vitae
-          quidem nihil vero ducimus officiis nam! Fugiat similique facere illum
-          incidunt neque quam. Lorem ipsum dolor sit amet consectetur,
-          adipisicing elit. Earum dolorum quo quas quisquam consequatur debitis
-          laboriosam, alias itaque laborum eligendi id soluta impedit vel
-          dolorem iusto asperiores! Cumque, deserunt ea?
+          Somos uma empresa dedicada e comprometida em prestar serviços de transporte rodoviário de cargas secas,
+          medicamentos, cosméticos e saneantes com segurança e competência. Nossa missão é garantir a satisfação dos
+          clientes externos e internos, evoluindo e aprimorando continuamente nossos processos. Buscamos ser a melhor
+          opção nesse segmento na região do Distrito Federal - Goiás, destacando-nos pela qualidade dos serviços
+          prestados. Nossos valores fundamentais são a confiança, a qualidade e a eficiência em transportes.
         </p>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo libero
-          eligendi assumenda in optio quas, suscipit, molestiae impedit repellat
-          repudiandae quisquam modi consequuntur, nostrum perspiciatis odit. Sed
-          libero omnis dolorum.
+          Contamos com uma equipe capacitada e comprometida em atender às necessidades de nossos clientes, sempre
+          priorizando a segurança e a excelência em cada etapa do transporte. Junte-se a nós e experimente um serviço de
+          transporte confiável e de alta qualidade.
+
         </p>
       </div>
     </div>
@@ -34,75 +32,70 @@
         <div class="grid grid-cols-2 grid-rows-2 gap-16 flex-1 p-12">
           <!-- Grid layout for cards -->
           <!-- Card 1 -->
-          <div
-            class="p-4 border-solid border-2 border-white rounded-lg flex flex-col space-y-4"
-          >
-            <truckIcon
-              style="width: 100px"
-              class="-inset-y-14 relative bg-blue-900 p-4 fill-white"
-            />
+          <div class="p-4 border-solid border-2 border-white rounded-lg flex flex-col space-y-4">
+            <truckIcon style="width: 100px" class="-inset-y-14 relative bg-blue-900 p-4 fill-white" />
             <h5 class="mb-2 text-xl font-bold tracking-tight text-white">
-              Card Title 1
+              Segurança em primeiro lugar
             </h5>
             <h5 class="mb-2 text-4xl font-bold tracking-tight text-white">
-              Por que escolher nossos serviços de transporte
+              Por que escolher nossos serviços de transporte?
             </h5>
             <p class="flex-1 text-white">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              Priorizamos a segurança em todas as etapas do transporte. Utilizamos tecnologia de ponta para monitorar em
+              tempo real todas as cargas, enquanto nossa equipe é regularmente treinada em segurança e prevenção de
+              acidentes. Além disso, mantemos uma frota moderna e revisada, garantindo a segurança das mercadorias
+              transportadas.
             </p>
           </div>
           <!-- Card 2 -->
-          <div
-            class="p-4 border-solid border-2 border-white rounded-lg flex flex-col space-y-4"
-          >
-            <warehouseIcon
-              style="width: 100px"
-              class="-inset-y-14 relative bg-blue-900 p-4 fill-white"
-            />
+          <div class="p-4 border-solid border-2 border-white rounded-lg flex flex-col space-y-4">
+            <warehouseIcon style="width: 100px" class="-inset-y-14 relative bg-blue-900 p-4 fill-white" />
             <h5 class="mb-2 text-xl font-bold tracking-tight text-white">
-              Card Title 1
+              Eficiência operacional
             </h5>
             <h5 class="mb-2 text-4xl font-bold tracking-tight text-white">
-              Por que escolher nossos serviços de transporte
+              Por que escolher nossos serviços de transporte?
             </h5>
             <p class="flex-1 text-white">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              Cumprimos rigorosamente os prazos estabelecidos, garantindo a pontualidade das entregas. Contamos com uma
+              equipe logística altamente qualificada, que otimiza rotas e processos para reduzir custos e tempo de
+              entrega. Além disso, nosso sistema de gestão de transportes garante uma operação eficiente e transparente.
+
             </p>
           </div>
           <!-- Card 3 -->
-          <div
-            class="p-4 border-solid border-2 border-white rounded-lg flex flex-col space-y-4"
-          >
-            <flatbedIcon
-              style="width: 100px"
-              class="-inset-y-14 relative bg-blue-900 p-4 fill-white"
-            />
+          <div class="p-4 border-solid border-2 border-white rounded-lg flex flex-col space-y-4">
+            <flatbedIcon style="width: 100px" class="-inset-y-14 relative bg-blue-900 p-4 fill-white" />
             <h5 class="mb-2 text-xl font-bold tracking-tight text-white">
-              Card Title 1
+              Compromisso com a satisfação do cliente
+
             </h5>
             <h5 class="mb-2 text-4xl font-bold tracking-tight text-white">
-              Por que escolher nossos serviços de transporte
+              Por que escolher nossos serviços de transporte?
             </h5>
             <p class="flex-1 text-white">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              Estamos sempre disponíveis para atender às necessidades dos nossos clientes, buscando soluções
+              personalizadas para cada demanda. Valorizamos o feedback dos nossos clientes e estamos em constante busca
+              por melhorias em nossos serviços para superar as expectativas, proporcionando uma experiência de
+              transporte excepcional.
+
             </p>
           </div>
           <!-- Card 4 -->
-          <div
-            class="p-4 border-solid border-2 border-white rounded-lg flex flex-col space-y-4"
-          >
-            <clipboardIcon
-              style="width: 80px"
-              class="-inset-y-14 relative bg-blue-900 p-4 fill-white"
-            />
+          <div class="p-4 border-solid border-2 border-white rounded-lg flex flex-col space-y-4">
+            <clipboardIcon style="width: 80px" class="-inset-y-14 relative bg-blue-900 p-4 fill-white" />
             <h5 class="mb-2 text-xl font-bold tracking-tight text-white">
-              Card Title 1
+              Qualidade comprovada
             </h5>
             <h5 class="mb-2 text-4xl font-bold tracking-tight text-white">
-              Por que escolher nossos serviços de transporte
+              Por que escolher nossos serviços de transporte?
             </h5>
             <p class="flex-1 text-white">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              Nossa empresa é reconhecida pela qualidade comprovada. Somos destacados pelos serviços de excelência e
+              atendimento ao cliente. Mantemos parcerias com os principais fornecedores do mercado, garantindo a
+              qualidade das mercadorias transportadas. Nossos clientes confiam em nós para transportar seus produtos com
+              segurança e qualidade.
+
             </p>
           </div>
         </div>
@@ -112,16 +105,10 @@
       <div class="flex flex-row space-x-4">
         <iframe
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3839.2478235451617!2d-47.980437224610945!3d-15.790881322869039!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a31124b229561%3A0xe398c1d49a523718!2sDALA%20Transportes!5e0!3m2!1spt-BR!2sbr!4v1711901969886!5m2!1spt-BR!2sbr"
-          class="w-full min-h-[650px] md:min-w-[400px] md:w-[800px] h-[650px] rounded-xl"
-          style="border: 0"
-          allowfullscreen=""
-          loading="lazy"
-          referrerpolicy="no-referrer-when-downgrade"
-        ></iframe>
+          class="w-full min-h-[650px] md:min-w-[400px] md:w-[800px] h-[650px] rounded-xl" style="border: 0"
+          allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         <div class="flex flex-col max-w-md p-4 space-y-8 justify-center">
-          <span class="font-bold text-xl"
-            ><b class="font-black">DALA</b> Transportes</span
-          >
+          <span class="font-bold text-xl"><b class="font-black">DALA</b> Transportes</span>
           <h2 class="text-4xl font-bold mb-4">Visite-nos!</h2>
           <p class="text-lg">
             Venha conhecer nossa sede da DALA Transportes. Estamos localizados
