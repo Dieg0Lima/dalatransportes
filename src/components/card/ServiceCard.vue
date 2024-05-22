@@ -2,7 +2,7 @@
   <div class="flex items-start gap-4">
     <!-- Main flex container -->
 
-    <div class="grid grid-cols-2 grid-rows-2 gap-8 flex-1 p-12">
+    <div class="grid grid-cols-2 grid-rows-2 gap-8 flex-1 p-12 text-justify">
       <!-- Grid layout for cards -->
       <!-- Card 1 -->
       <div class="p-4 bg-white rounded-lg flex flex-col space-y-4">
@@ -11,7 +11,7 @@
           Por que escolher nossos serviços de transporte?
         </h5>
         <p class="flex-1 text-gray-700">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+          Saiba por que a DALA Transportes é a melhor escolha para o seu negócio.
         </p>
       </div>
       <!-- Card 2 -->

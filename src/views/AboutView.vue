@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col items-center bg-slate-100 w-full space-y-8">
+  <div class="flex flex-col items-center bg-slate-100 w-full space-y-8 text-justify">
     <div class="flex flex-col md:flex-row w-full max-w-4xl items-center p-12">
       <!-- Reduz a largura da coluna das palavras-chave -->
       <div class="md:w-2/12 p-4 flex flex-col">

@@ -54,7 +54,7 @@
           <span>Transporte de funcionários</span>
         </div>
         <div class="text-center text-black">
-          <span>: Oferecemos aos seus colaboradores um transporte seguro com conforto e agilidade.</span>
+          <span>Oferecemos aos seus colaboradores um transporte seguro com conforto e agilidade.</span>
         </div>
         <div>
           <ButtonWanted />

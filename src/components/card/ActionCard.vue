@@ -1,6 +1,6 @@
 <template>
   <div class="flex flex-col space-y-12 p-8">
-    <section class="bg-opacity-90 bg-gray-800 p-6 rounded-lg shadow-lg space-y-6">
+    <section class="bg-opacity-90 bg-gray-800 p-6 rounded-lg shadow-lg space-y-6 text-justify">
       <header>
         <h1 class="text-xl font-bold text-white">
           <span class="font-black">DALA</span> Transportes
@@ -16,7 +16,7 @@
 
       </p>
     </section>
-    <section class="bg-opacity-90 bg-gray-800 p-6 rounded-lg shadow-lg space-y-6">
+    <section class="bg-opacity-90 bg-gray-800 p-6 rounded-lg shadow-lg space-y-6 text-justify">
       <header>
         <h1 class="text-xl font-bold text-white">
           <span class="font-black">DALA</span> Transportes
@@ -28,7 +28,7 @@
         região Distrito Federal - Goiás, sendo referência no segmento, pela qualidade dos serviços prestados.
       </p>
     </section>
-    <section class="bg-opacity-90 bg-gray-800 p-6 rounded-lg shadow-lg space-y-6">
+    <section class="bg-opacity-90 bg-gray-800 p-6 rounded-lg shadow-lg space-y-6 text-justify">
       <header>
         <h1 class="text-xl font-bold text-white">
           <span class="font-black">DALA</span> Transportes
