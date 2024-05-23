@@ -2,7 +2,7 @@
   <div
     class="flex flex-col w-screen justify-center items-center p-4 space-y-12"
   >
-    <div class="w-full max-w-4xl p-4">
+    <div class="w-full max-w-4xl p-4 pt-12">
       <h2 class="text-3xl font-bold mb-4">Perguntas Frequentes</h2>
       <div class="space-y-2">
         <div
@@ -88,7 +88,7 @@
         <div>
           <i class="fas fa-map-marker-alt mr-2"></i>
           <span
-            ><strong>Endereço:</strong> SCIA Q15 - Brasília, DF, 71225-512</span
+            ><strong>Endereço:</strong> SCIA Q8 Conjunto 13 Lote 10 <br> Brasília, DF, 71250-735</span
           >
           <p class="text-sm mt-1">Visite nosso escritório.</p>
         </div>

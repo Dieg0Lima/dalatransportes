@@ -1,9 +1,9 @@
 <template>
   <main class="h-screen w-screen relative">
-    <nav class="flex justify-center items-center">
+    <nav class="w-full flex justify-center items-center fixed z-50">
       <Topbar />
     </nav>
-    <router-view></router-view>
+    <router-view class=" pt-28 bg-slate-50"></router-view>
     <footer v-if="$route.path !== '/'">
       <section class="bg-red-800 text-white p-6">
         <div class="max-w-screen-xl mx-auto flex flex-wrap justify-between items-center text-sm">

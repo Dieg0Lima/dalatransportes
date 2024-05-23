@@ -6,7 +6,7 @@
         <div class="flex flex-row space-x-6">
           <div class="space-x-2 text-white">
             <i class="fa-solid fa-location-dot"></i>
-            <span class="text-sm">SCIA Q15 - Brasília, DF, 71225-512</span>
+            <span class="text-sm">SCIA Q8 Conjunto 13 Lote 10 - Brasília, DF, 71250-735</span>
           </div>
           <div class="space-x-2 text-white">
             <i class="fa-solid fa-phone"></i>
@@ -28,7 +28,9 @@
     </header>
     <nav class="w-full flex flex-row items-center bg-slate-100 rounded-lg rounded-tr-none rounded-tl-none">
       <div class="w-4/12 flex justify-center items-center">
-        <img class="w-40 br p-2" src="../../assets/images/nav-image-logo.png" alt="" />
+        <router-link to="/" class="h-full text-base"> <img class="w-40 br p-2"
+            src="../../assets/images/nav-image-logo.png" alt="" />
+        </router-link>
       </div>
       <div class="w-4/12 flex justify-center items-center">
         <div class="flex flex-row space-x-16 font-bold text-items-color">
